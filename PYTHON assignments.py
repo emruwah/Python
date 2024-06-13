@@ -151,24 +151,24 @@
 
 # 3. Generate a Fibonacci sequence of n terms using a for loop.
 
-def fib(n):
-    a = 0
-    b = 1
-    if n == 1:
-        print(a)
-    else:
-        print(a)
-        print(b)
+# def fib(n):
+#     a = 0
+#     b = 1
+#     if n == 1:
+#         print(a)
+#     else:
+#         print(a)
+#         print(b)
 
-        for i in range(2,n):
-            c = a+b
-            a = b
-            print(c)
+#         for i in range(2,n):
+#             c = a+b
+#             a = b
+#             print(c)
 
-fib(2)
-
+# fib(2)
 
 # 4. Calculate the factorial of a number using a for loop and a function.
+
 
 
 # 5. Write a program to find and print all the prime numbers between 1 to 100.
