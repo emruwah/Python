@@ -72,5 +72,4 @@
 # print(s.keys())
 # print(s.values())    
 
-# 3. Write a program to increase each student's score by 5 points in a dictionary. 
-
+# 3. Write a program to increase each student's score by 5 points in a dictionary.
